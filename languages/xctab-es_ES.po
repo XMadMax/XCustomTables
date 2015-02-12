@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XCustomTables\n"
+"POT-Creation-Date: 2015-02-10 16:18+0100\n"
+"PO-Revision-Date: 2015-02-10 16:18+0100\n"
+"Last-Translator: Xavier Perez <xmadmax@gmail.com>\n"
+"Language-Team: Xavier Perez <xmadmax@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: models/SeoTitles.php:81
+msgid "No"
+msgstr "No"
+
+#: models/SeoTitles.php:82
+msgid "Sí"
+msgstr "Sí"
+
+#: models/_xctBaseModel.php:30 xcustomtables.class.php:254
+#: xeditable/class/xctBaseModel.php:36
+msgid "Borrar"
+msgstr "Borrar"
+
+#: models/_xctBaseModel.php:33 xeditable/class/xctBaseModel.php:39
+msgid "Editar"
+msgstr "Editar"
+
+#: xcustomtables.class.php:246
+msgid "No records found."
+msgstr "No se han encontrado registros"
+
+#: xcustomtables.class.php:258
+msgid "No hay acciones disponibles"
+msgstr "No hay acciones disponibles"
+
+#: xcustomtables.class.php:290
+#, php-format
+msgid "Borrado de %1$s registro/s completado !!"
+msgstr "Borrado de %1$s registro/s completado !!"
+
+#: xcustomtables.class.php:292
+msgid "No está permitido el borrado de registro/s de esta tabla !!"
+msgstr "No está permitido el borrado de registro/s de esta tabla !!"
+
+#: xcustomtables.class.php:302
+msgid "No está permitido la edición de registro/s de esta tabla !!"
+msgstr "No está permitido la edición de registro/s de esta tabla !!"
+
+#: xcustomtables.class.php:309
+msgid "Usa el primer regstro en blanco para editar los valores a insertar."
+msgstr "Usa el primer regstro en blanco para editar los valores a insertar."
+
+#: xcustomtables.class.php:315
+msgid "No está permitida la inserción de registro/s en esta tabla !!"
+msgstr "No está permitida la inserción de registro/s en esta tabla !!"
+
+#: xcustomtables.functions.php:23 xeditable/views/render_main_menu.php:2
+msgid "Mantenimientos"
+msgstr "XCustomTables"
+
+#: xeditable/views/combodate.php:10 xeditable/views/combodatetime.php:10
+#: xeditable/views/select.php:10
+msgid "Seleccionar fecha"
+msgstr "Selecciona fecha"
+
+#: xeditable/views/render_main_menu.php:6
+msgid "Ayuda"
+msgstr "Ayuda"
+
+#: xeditable/views/render_main_menu.php:8
+msgid "HelpMainMenu"
+msgstr ""
+"Acceso a la edición / mantenimiento de tablas de la base de datos. Cada "
+"tabla tiene sus propios permisos, podrá vier / editar / borrar dependiendo "
+"de la configur ación de cada tabla. Cada campo editable es mostrado en color "
+"azul, haga 'click' sobre él para abrir el modo edición. Para añadir un "
+"registro, pulse sobre 'Añadir nuevo', verá cómo se crea un registro en "
+"blanco para que pueda asignar los valores que desee."
+
+#: xeditable/views/render_main_menu.php:14
+msgid "Opciones"
+msgstr "Opciones"
+
+#: xeditable/views/select.php:11
+msgid "Selecciona"
+msgstr "Selecciona"
+
+#~ msgid "Mai"
+#~ msgstr "Nunca"
+
+#~ msgid "Quizás"
+#~ msgstr "Quizás"
