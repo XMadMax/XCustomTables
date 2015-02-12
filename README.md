@@ -247,5 +247,5 @@ XCustomTables will use the language defined by wordpress, default to en_US.
  - Wysiwyg html5 editor
 
 ### License
-MIT
+GPLv2 or later
 
